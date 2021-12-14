@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>PayloadDisplayName</key>
+    <string>AppleTV-代理描述文件</string>
+    <key>PayloadIdentifier</key>
+    <string>wudeiMac.BC9F759D-DB99-4123-8605-68C1EB0DBFAF</string>
+    <key>PayloadUUID</key>
+    <string>bb8863dc-9fbc-4445-9fbf-53d8efdcb865</string>
+    <key>PayloadRemovalDisallowed</key>
+    <false />
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+    <key>PayloadContent</key>
+    <array>
+      <dict>
+        <key>PayloadDescription</key>
+        <string>配置 Wi-Fi 设置</string>
+        <key>PayloadDisplayName</key>
+        <string>Wi-Fi</string>
+        <key>PayloadIdentifier</key>
+        <string>com.apple.wifi.managed.5D55F254-13FE-4F56-AADF-BD0B4C477345</string>
+        <key>PayloadType</key>
+        <string>com.apple.wifi.managed</string>
+        <key>PayloadUUID</key>
+        <string>5D55F254-13FE-4F56-AADF-BD0B4C477345</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>SSID_STR</key>
+        <string>zPer-RGL-A17-5G</string>
+        <key>ProxyType</key>
+        <string>Manual</string>
+        <key>ProxyServer</key>
+        <string>192.168.2.27</string>
+        <key>ProxyServerPort</key>
+        <integer>8899</integer>
+        <key>EncryptionType</key>
+        <string>WPA2</string>
+        <key>Password</key>
+        <string>av8b@A17-5G-J5MS85C</string>
+      </dict>
+    </array>
+  </dict>
+</plist>
