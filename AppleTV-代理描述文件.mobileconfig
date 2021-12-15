@@ -30,17 +30,17 @@
         <key>PayloadVersion</key>
         <integer>1</integer>
         <key>SSID_STR</key>
-        <string>zPer-RGL-A17-5G</string>
+        <string>无线网络名字</string>
         <key>ProxyType</key>
         <string>Manual</string>
         <key>ProxyServer</key>
-        <string>192.168.2.27</string>
+        <string>proxyIP地址</string>
         <key>ProxyServerPort</key>
-        <integer>8899</integer>
+        <integer>端口</integer>
         <key>EncryptionType</key>
         <string>WPA2</string>
         <key>Password</key>
-        <string>av8b@A17-5G-J5MS85C</string>
+        <string>无线网络密码</string>
       </dict>
     </array>
   </dict>
